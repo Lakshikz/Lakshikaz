@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lakshika</h1>
+<h3 align="center">I'm a  Full Stack Developer from Sri Lanka.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **dezoysalakshika813@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+ 
 
 ## 🚀 Languages and Tools:
 
